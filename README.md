@@ -28,7 +28,7 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 
 Parceiro acadêmico: [FATEC](https://fatecsjc-prd.azurewebsites.net)
 
-<img src="/Portfolio-FATEC/assets/api1/fotoapi0.png" alt="PontoPy" style="width: 70%;"/>
+<img src="/assets/api1/fotoapi0.png" alt="PontoPy" style="width: 70%;"/>
 
 >Neste primeiro contato com a metodologia ágil, a FATEC disponibilizou dois professores para realizar a interface de cliente e orientador SCRUM, para garantir que os alunos pudessem ter contato ativo com o cliente e sanar todas as dúvidas, facilitando a experiência e a curva de aprendizado de uma nova metodologia de trabalho.
 
@@ -36,7 +36,7 @@ Parceiro acadêmico: [FATEC](https://fatecsjc-prd.azurewebsites.net)
 
 ### :computer: Tecnologias Utilizadas
 
-![Tecnologias](/Portfolio-FATEC/assets/api1/tecnologias.png)
+![Tecnologias](/assets/api1/tecnologias.png)
 
 <br>
 
@@ -54,9 +54,9 @@ Para o primeiro semestre, tive a oportunidade de trabalhar a primeira metade do 
     <br>
     Após o Kickoff do projeto, pude trabalhar em conjunto com o cliente e com a equipe para criar o primeiro Backlog do Projeto, levantando os requisitos, e posteriormente transformando os requisitos em User Stories, desenvolvendo as prioridades e as entregas de valor para o projeto.
     <br>
-    <img src="/Portfolio-FATEC/assets/api1/fotoapi6.png" alt="Tela de Consulta de Horas"/>
+    <img src="/assets/api1/fotoapi6.png" alt="Tela de Consulta de Horas"/>
     <br>
-    <img src="/Portfolio-FATEC/assets/api1/fotoapi7.png" alt="Tela de Consulta de Horas"/>
+    <img src="/assets/api1/fotoapi7.png" alt="Tela de Consulta de Horas"/>
 </details>
 
 <details>
@@ -149,8 +149,8 @@ Para o primeiro semestre, tive a oportunidade de trabalhar a primeira metade do 
 Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
 
 <p align="center">
-  <img src="/Portfolio-FATEC/assets/api2/fotoapi1.png" alt="Imagem 1" width="45%">
-  <img src="/Portfolio-FATEC/assets/api2/fotoapi4.png" alt="Imagem 2" width="45%">
+  <img src="/assets/api2/fotoapi1.png" alt="Imagem 1" width="45%">
+  <img src="/assets/api2/fotoapi4.png" alt="Imagem 2" width="45%">
 </p>
 
 >A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para geração de insights e o aprimoramento da experiência de seus clientes.
@@ -159,7 +159,7 @@ Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
 
 ### :computer: Tecnologias Utilizadas
 
-![Tecnologias](/Portfolio-FATEC/assets/api2/tecnologias.png)
+![Tecnologias](/assets/api2/tecnologias.png)
 
 <br>
 
@@ -175,8 +175,8 @@ Meu principal papel durante o desenvolvimento deste projeto foi como Desenvolved
         Criação de layouts com JavaFX.
     </summary>
     <div>
-        <img src="/Portfolio-FATEC/assets/api2/fotoapi6.jpeg" alt="Layout Inicial"/>
-        <img src="/Portfolio-FATEC/assets/api2/fotoapi5.png" alt="SceneBuilder"/>
+        <img src="/assets/api2/fotoapi6.jpeg" alt="Layout Inicial"/>
+        <img src="/assets/api2/fotoapi5.png" alt="SceneBuilder"/>
     </div>
     <br>
     Transformação do layout inicial idealizado pelo Product Owner, após discussões com a equipe.
@@ -335,8 +335,8 @@ Meu principal papel durante o desenvolvimento deste projeto foi como Desenvolved
 Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
 
 <p align="center">
-  <img src="/Portfolio-FATEC/assets/api3/fotoapi4.png" alt="Imagem 1" width="45%">
-  <img src="/Portfolio-FATEC/assets/api3/fotoapi2.png" alt="Imagem 2" width="50%">
+  <img src="/assets/api3/fotoapi4.png" alt="Imagem 1" width="45%">
+  <img src="/assets/api3/fotoapi2.png" alt="Imagem 2" width="50%">
 </p>
 
 >A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para geração de insights e o aprimoramento da experiência de seus clientes.
@@ -345,7 +345,7 @@ Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
 
 ### :computer: Tecnologias Utilizadas
 
-![Tecnologias](/Portfolio-FATEC/assets/api3/fotoapi5.png)
+![Tecnologias](/assets/api3/fotoapi5.png)
 
 <br>
 
@@ -367,11 +367,11 @@ Durante o semestre em que o projeto foi desenvolvido, tive a oportunidade de atu
     <br>
     Com base no protótipo pensado pelo Product Owner, e com a utilização das linguagens HTML e CSS, o desenvolvimento das páginas se         iniciou, e depois de conversas com o cliente e alinhamento de preferências, o design final foi atingido. Após isso pude trabalhar na     implementação do design e na criação das páginas para o projeto. Me utilizando de HTML, CSS e Bootstrap.
     <br>
-    <img src="/Portfolio-FATEC/assets/api3/fotoapi1.png" alt="Tela de Consulta de Horas"/>
+    <img src="/assets/api3/fotoapi1.png" alt="Tela de Consulta de Horas"/>
     <br>
     - Implementação de todas as decisões de design, paleta de cores, fontes, organização dos dados e o formato da tabela que trará os dados do banco. Responsividade das páginas, conteúdos e menus implementada do zero.
     <br>
-    <img src="/Portfolio-FATEC/assets/api3/fotoapi2.png" alt="Tela de Cadastro de Horas"/>
+    <img src="/assets/api3/fotoapi2.png" alt="Tela de Cadastro de Horas"/>
     <br>
     - Padronização de todas as telas, montagem dos formulários e manipulação dos dados inseridos.
 </details>
@@ -382,7 +382,7 @@ Durante o semestre em que o projeto foi desenvolvido, tive a oportunidade de atu
     <summary>
         Menus e conteúdos dinâmicos.
     </summary>
-    <img src="/Portfolio-FATEC/assets/api3/fotoapi3.png" alt="Menus"/>
+    <img src="/assets/api3/fotoapi3.png" alt="Menus"/>
     <br>
     Criação de funções em JavaScript, capazes de identificar qual tipo de usuário está logado na plataforma, e de acordo com suas permissões, carregar o menu principal e seus conteúdos dinamicamente.
 
@@ -457,14 +457,14 @@ Durante o semestre em que o projeto foi desenvolvido, tive a oportunidade de atu
 Parceiro acadêmico: [Oracle](https://www.oracle.com)
 
 <p align="center">
-  <img src="/Portfolio-FATEC/assets/api4/fotoapi2.png" alt="Imagem 2" width="100%">
+  <img src="/assets/api4/fotoapi2.png" alt="Imagem 2" width="100%">
 </p>
 
 >A Oracle está a décadas no mercado de tecnologia, e é uma das pioneiras em oferecer serviço de banco de dados e ambientes em nuvem. Nos buscou para uma aplicação web que permita a análise e o controle do seu programa de parceria.
 
 ### :computer: Tecnologias Utilizadas
 
-![Tecnologias](/Portfolio-FATEC/assets/api4/tecnologias2.png)
+![Tecnologias](/assets/api4/tecnologias2.png)
 
 - [Java](https://www.java.com/pt-BR/) : Linguagem utilizada para o desenvolvimento das funcionalidades back-end do projeto.
 - [Spring](https://spring.io/) : Framework escolhido para melhorar a estrutura e a conexão do projeto com o banco de dados.
@@ -674,8 +674,8 @@ Desempenhei a função de desenvolvedor full-stack neste projeto, trabalhando em
         Funcionalidade front-end de CRUD para certificações
     </summary>
     <br>
-    <img src="/Portfolio-FATEC/assets/api4/fotoapi5.png" alt="Tela de Formulário"/>
-    <img src="/Portfolio-FATEC/assets/api4/fotoapi3.png" alt="Tabela com todas as Certificações"/>
+    <img src="/assets/api4/fotoapi5.png" alt="Tela de Formulário"/>
+    <img src="/assets/api4/fotoapi3.png" alt="Tabela com todas as Certificações"/>
 </details>
 
 <details>
@@ -683,7 +683,7 @@ Desempenhei a função de desenvolvedor full-stack neste projeto, trabalhando em
         Criação do Logotipo OraclePartnerTracker
     </summary>
     <br>
-    <img src="/Portfolio-FATEC/assets/api4/fotoapi1.png" alt="Menus"/>
+    <img src="/assets/api4/fotoapi1.png" alt="Menus"/>
 </details>
 
 <details>
@@ -691,7 +691,7 @@ Desempenhei a função de desenvolvedor full-stack neste projeto, trabalhando em
         Desenvolvimento da funcionalidade de vencimento
     </summary>
     <br>
-    <img src="/Portfolio-FATEC/assets/api4/fotoapi4.png" alt="Menus"/>
+    <img src="/assets/api4/fotoapi4.png" alt="Menus"/>
 </details>
 
 ### :man_student: Aprendizado
