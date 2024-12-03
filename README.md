@@ -3,7 +3,7 @@
 ## :speech_balloon: Introdução
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="/Portfolio-FATEC/assets/_1.png" alt="Alec" style="width: 35%;"/>
+    <img src="/assets/_1.png" alt="Alec" style="width: 35%;"/>
 </div>
 
 > Olá, eu sou o Alec!
