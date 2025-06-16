@@ -11,12 +11,13 @@
 <br>
 
 ## Contatos
-* [GIT](https://github.com/aleclr)
-* [LinkedIn](https://www.linkedin.com/in/alecrondel/)
+
+- [GIT](https://github.com/aleclr)
+- [LinkedIn](https://www.linkedin.com/in/alecrondel/)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
+Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
 ## :card_index_dividers: PORTFOLIO
 
@@ -30,9 +31,9 @@ Parceiro acadêmico: [FATEC](https://fatecsjc-prd.azurewebsites.net)
 
 <img src="/assets/api1/fotoapi0.png" alt="PontoPy" style="width: 70%;"/>
 
->Neste primeiro contato com a metodologia ágil, a FATEC disponibilizou dois professores para realizar a interface de cliente e orientador SCRUM, para garantir que os alunos pudessem ter contato ativo com o cliente e sanar todas as dúvidas, facilitando a experiência e a curva de aprendizado de uma nova metodologia de trabalho.
+> Neste primeiro contato com a metodologia ágil, a FATEC disponibilizou dois professores para realizar a interface de cliente e orientador SCRUM, para garantir que os alunos pudessem ter contato ativo com o cliente e sanar todas as dúvidas, facilitando a experiência e a curva de aprendizado de uma nova metodologia de trabalho.
 
->O tema do projeto foi a Avaliação 360º, uma técnica de avaliação que visa criar um ambiente de avaliação honesto e abrangente, onde todos os membros de uma equipe podem realizar tanto a autoavaliação quanto a avaliação de seus colegas. Foi criado então um sistema na linguagem Python, que possibilita o login e a criação e controle de toda a estrutura, usuários, equipes, sprints e avaliações.
+> O tema do projeto foi a Avaliação 360º, uma técnica de avaliação que visa criar um ambiente de avaliação honesto e abrangente, onde todos os membros de uma equipe podem realizar tanto a autoavaliação quanto a avaliação de seus colegas. Foi criado então um sistema na linguagem Python, que possibilita o login e a criação e controle de toda a estrutura, usuários, equipes, sprints e avaliações.
 
 ### :computer: Tecnologias Utilizadas
 
@@ -45,6 +46,7 @@ Parceiro acadêmico: [FATEC](https://fatecsjc-prd.azurewebsites.net)
 - [Visual Studio Code](https://code.visualstudio.com) : Software utilizado como ambiente de desenvolvimento.
 
 ### Contribuições Pessoais
+
 Para o primeiro semestre, tive a oportunidade de trabalhar a primeira metade do projeto como Product Owner, realizando a interface com o cliente e criando a estrutura do Product Backlog. Na segunda metade do cronograma, pude ter experiência como developer, trabalhando em desenvolver novas funcionalidades e otimizar o código fonte do projeto.
 
 <details>
@@ -153,9 +155,9 @@ Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
   <img src="/assets/api2/fotoapi4.png" alt="Imagem 2" width="45%">
 </p>
 
->A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para geração de insights e o aprimoramento da experiência de seus clientes.
+> A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para geração de insights e o aprimoramento da experiência de seus clientes.
 
->Nosso parceiro buscava uma ferramenta web que fizesse o controle da jornada de trabalho do colaborador, identificasse e classificasse horas extras, controle das horas extras e sobreavisos. Acesso de administrador para o departamento de RH, gestor para aprovação e lançamento das horas e colaborador para apontar horas extras.
+> Nosso parceiro buscava uma ferramenta web que fizesse o controle da jornada de trabalho do colaborador, identificasse e classificasse horas extras, controle das horas extras e sobreavisos. Acesso de administrador para o departamento de RH, gestor para aprovação e lançamento das horas e colaborador para apontar horas extras.
 
 ### :computer: Tecnologias Utilizadas
 
@@ -168,6 +170,7 @@ Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
 - [PostgreSQL](https://www.postgresql.org) : Banco de Dados escolhido para a aplicação.
 
 ### Contribuições Pessoais
+
 Meu principal papel durante o desenvolvimento deste projeto foi como Desenvolvedor Front-End, onde ajudei transformar o layout pensado pelo Product Owner da equipe em telas funcionais e atraentes, com o uso do SceneBuilder para JavaFX, além de trabalhar na integração de classes do java com o front-end.
 
 <details>
@@ -339,9 +342,9 @@ Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
   <img src="/assets/api3/fotoapi2.png" alt="Imagem 2" width="50%">
 </p>
 
->A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para geração de insights e o aprimoramento da experiência de seus clientes.
+> A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para geração de insights e o aprimoramento da experiência de seus clientes.
 
->Nosso parceiro buscava uma ferramenta web que fizesse o controle da jornada de trabalho do colaborador, identificasse e classificasse horas extras, controle das horas extras e sobreavisos. Acesso de administrador para o departamento de RH, gestor para aprovação e lançamento das horas e colaborador para apontar horas extras.
+> Nosso parceiro buscava uma ferramenta web que fizesse o controle da jornada de trabalho do colaborador, identificasse e classificasse horas extras, controle das horas extras e sobreavisos. Acesso de administrador para o departamento de RH, gestor para aprovação e lançamento das horas e colaborador para apontar horas extras.
 
 ### :computer: Tecnologias Utilizadas
 
@@ -358,6 +361,7 @@ Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
 - [Figma](https://www.figma.com/) : Aplicação web escolhida para organização da documentação e design do projeto.
 
 ### Contribuições Pessoais
+
 Durante o semestre em que o projeto foi desenvolvido, tive a oportunidade de atuar como desenvolvedor front-end, ajudando a transformar o design pensado pelo P.O. em páginas reais da web, além da comunicação entre aplicação e banco de dados. Dentre as funções realizadas estão: a criação das páginas, o trabalho na comunicação dos elementos com o banco de dados, bem como a manipulação e a disposição destes dados.
 
 <details>
@@ -460,7 +464,7 @@ Parceiro acadêmico: [Oracle](https://www.oracle.com)
   <img src="/assets/api4/fotoapi2.png" alt="Imagem 2" width="100%">
 </p>
 
->A Oracle está a décadas no mercado de tecnologia, e é uma das pioneiras em oferecer serviço de banco de dados e ambientes em nuvem. Nos buscou para uma aplicação web que permita a análise e o controle do seu programa de parceria.
+> A Oracle está a décadas no mercado de tecnologia, e é uma das pioneiras em oferecer serviço de banco de dados e ambientes em nuvem. Nos buscou para uma aplicação web que permita a análise e o controle do seu programa de parceria.
 
 ### :computer: Tecnologias Utilizadas
 
@@ -732,6 +736,332 @@ Desempenhei a função de desenvolvedor full-stack neste projeto, trabalhando em
         <tr>
             <td>Feedback Construtivo</td>
             <td>Com a complexidade dos sistemas desenvolvidos aumentando, aumenta também a responsabilidade de cada desenvolvedor, e corre o risco de desentendimentos e brigas internas a respeito da diferença na metodologia pessoal de trabalho de cada colega. O feedback positivo é essencial para manter o bom espírito e a positividade como uma equipe.</td>
+        </tr>
+    </table>
+</details>
+
+---
+
+### 5º SEM - Análise de Dados Para Recrutamento e Processo Seletivo
+
+[Repositório Github](https://github.com/bytelabss/ByteLabss-API5sem)
+
+Parceiro acadêmico: [Pro4Tech](https://pro4tech.com.br)
+
+<p align="center">
+  <img src="/assets/api5/fotoapi1.png" alt="Imagem 2" width="100%">
+</p>
+
+> A Pro4Tech nos procurou, buscando uma solução para gerenciamento e análise de dados envolvendo seus processos seletivos e de recrutamento. A solução montada pela nossa equipe foi uma plataforma online, capaz de otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados.
+
+### :computer: Tecnologias Utilizadas
+
+![Tecnologias](/assets/api5/tecnologias.png)
+
+- [Java](https://www.java.com/pt-BR/) : Linguagem utilizada para o desenvolvimento das funcionalidades back-end do projeto.
+- [Spring](https://spring.io/) : Framework escolhido para melhorar a estrutura e a conexão do projeto com o banco de dados.
+- [MySQL](https://www.mysql.com/) : SGBD escolhido para criação e manipulação do banco de dados.
+- [VueJS](https://vuejs.org) : Framework para criação da estrutura e desenvolvimento da parte web da nossa aplicação.
+- [Spark](https://spark.apache.org) : Framework para processamento de dados, usado no back-end para melhor análise e manuseio de dados.
+- [Docker](https://www.docker.com) : Plataforma para criar e executar contêineres, usado para padronizar os ambientes e implementar DevOps.
+
+### Contribuições Pessoais
+
+Também fiz parte da equipe como um desenvolvedor full-stack neste projeto, onde pude trabalhar em tarefas como mapeamento de tabelas no back-end, criação de lógica para exportação de dados via pdf, query JPA e endpoint relacionado, e a funcionalidade de visualização de queries customizadas no front-end.
+
+<details>
+    <summary>
+        Mapeamento de tabela
+    </summary>
+    <br>
+    <pre>
+        <code>
+package fatec.bytelabss.api.models;
+import java.time.LocalDateTime;
+import jakarta.persistence.*;
+import lombok.AllArgsConstructor;Add commentMore actions
+import lombok.Data;
+import lombok.NoArgsConstructor;
+-
+@Entity
+@Table(name = "PDF_REPORT_LOGS")
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class PdfReportLogs {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
+    private Long id;
+    -
+    @Column(name = "report_date", nullable = false)
+    private LocalDateTime reportDate;
+    -
+    @Column(name = "generated_at", nullable = false)
+    private LocalDateTime generatedAt;
+    -
+    // public PdfReportLog(LocalDateTime reportDate) {
+    //     this.reportDate = reportDate;
+    //     this.generatedAt = LocalDateTime.now();
+    // }
+    -
+}
+        </code>
+    </pre>
+</details>
+
+<details>
+    <summary>
+        Exportação de PDF:
+    </summary>
+    <br>
+    Repository:
+    <pre>
+        <code>
+public interface PdfReportLogRepository extends JpaRepository<PdfReportLogs, Long> {
+    @Query(nativeQuery = true, value = "SELECT * FROM pdf_report_logs p WHERE p.report_date >= :weekStart")
+    }
+        </code>
+    </pre>
+    Service:
+    <pre>
+        <code>
+@Service
+public class PdfReportLogService {
+    -
+    @Autowired
+    private PdfReportLogRepository pdfReportLogRepository;
+    -
+    @Autowired
+    private RestTemplate restTemplate;
+    -
+    private static final String PDF_EXPORT_URL = "http://localhost:9090/api/pdf/export/pdf/zip";
+    -
+    private static final String DEFAULT_ZIP_FILE_PATH = "relatorios/";
+    -
+    @Autowired
+    public PdfReportLogService(PdfReportLogRepository pdfReportLogRepository, RestTemplate restTemplate) {
+        this.pdfReportLogRepository = pdfReportLogRepository;
+        this.restTemplate = restTemplate;
+    }
+    -
+    public void generateWeeklyPdfReport() {
+        try {
+            -
+            ResponseEntity<byte[]> response = restTemplate.getForEntity(PDF_EXPORT_URL, byte[].class);
+            -
+            if (response.getStatusCode() == HttpStatus.OK) {
+                byte[] zipData = response.getBody();
+                -
+                String zipFileName = "weekly_report_" + LocalDate.now() + ".zip";
+                -
+                saveZipFileLocally(zipData, zipFileName);
+                -
+                PdfReportLogs log = new PdfReportLogs();
+                pdfReportLogRepository.save(log);
+                -
+                System.out.println("Weekly PDF report generated and saved successfully.");
+            } else {
+                System.err.println("Failed to generate or download the PDF report. Status code: " + response.getStatusCode());
+            }
+        } catch (Exception e) {
+            System.err.println("Error generating or downloading the PDF report: " + e.getMessage());
+        }
+    }
+    -
+    private void saveZipFileLocally(byte[] zipData, String fileName) throws IOException {
+        -
+        // Use a default or custom path to save the ZIP file
+        String filePath = Paths.get(DEFAULT_ZIP_FILE_PATH, fileName).toString();
+        -
+        // Ensure that the folder exists
+        java.nio.file.Files.createDirectories(Paths.get(DEFAULT_ZIP_FILE_PATH));
+        -
+        // Write the ZIP file to the specified path
+        try (FileOutputStream fileOutputStream = new FileOutputStream(filePath)) {
+            fileOutputStream.write(zipData);
+        }
+        -
+        System.out.println("ZIP file saved locally at: " + filePath);
+    }
+    -
+    private boolean isCurrentWeekReportGenerated() {
+        LocalDate startOfWeek = LocalDate.now().with(TemporalAdjusters.previousOrSame(java.time.DayOfWeek.SUNDAY));
+        Optional<PdfReportLogs> reportLog = pdfReportLogRepository.findReportByWeekStart(startOfWeek);
+        return reportLog.isPresent();
+    }
+    -
+    @PostConstruct
+    public void checkAndGenerateReportOnStartup() {
+        if (!isCurrentWeekReportGenerated()) {
+            generateWeeklyPdfReport();
+        }
+    }
+
+}
+</code>
+
+</pre>
+
+</details>
+
+<details>
+    <summary>
+        Query JPA + Endpoint
+    </summary>
+    <br>
+    JPA Query:
+    <pre>
+        <code>
+@Query("SELECT DISTINCT dc.nome AS nomeCandidato, dp.nome AS nomeProcesso " +
+      "FROM DimCandidato dc " +
+      "JOIN FatoAvaliacoes fa ON dc.idCandidato = fa.candidato " +
+      "JOIN DimVaga dv ON fa.vaga = dv.idVaga " +
+      "JOIN FatoContratacoes fc ON dv.idVaga = fc.vaga " +
+      "JOIN DimProcessoSeletivo dp ON fc.processoSeletivo = dp.idProcessoSeletivo " +
+      "WHERE (:candidato IS NULL OR dc.nome = :candidato)")
+   List<Object[]> processosPorCandidato(@Param("candidato") String candidato);
+        </code>
+    </pre>
+    <br>
+    Endpoint: 
+    <pre>
+        <code>
+    @GetMapping("/processos-por-candidato")
+    public ResponseEntity<List<CandidatoProcessoDTO>> getProcessosPorCandidato(@RequestParam(required = false) String candidato) {
+        List<CandidatoProcessoDTO> result = service.getProcessosPorCandidato(candidato);
+        return ResponseEntity.ok().body(result);
+    }
+        </code>
+    </pre>
+</details>
+
+<details>
+    <summary>
+        Visualização de dados de queries customizadas no Front-End
+    </summary>
+    <br>
+    <img src="/assets/api5/fotoapi2.png" alt="Visualização de Query"/>
+    <br>
+    Componentes:
+    <pre>
+        <code>
+            <!-- Modal Window Component -->
+            &lt;GerarDashboardCustomizado
+                v-if="showModal"
+                :title="'Criar Análise'"
+                :isVisible="showModal"
+                :selects="selectOptions"
+                @close="showModal = false"
+                @submitFormData="handleFormSubmit"
+            /&gt;
+            -
+            <!-- Render the DynamicChart after submission -->
+            &lt;div v-if="customQueryCharts.length" class="customquery-charts"&gt;
+            &lt;h3&gt;Análises Personalizadas:&lt;/h3&gt;
+            &lt;div v-for="(chart, index) in customQueryCharts" :key="index"&gt;
+                &lt;CustomQueryChart
+                :chartType="chart.chartType"
+                :chartData="chart.chartData"
+                :chartId="chart.chartId"
+                /&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;
+        </code>
+    </pre>
+    Lógica:
+    <pre>
+        <code>
+    function handleFormSubmit({ transformedData, visualizationModel }) {
+    console.log("Form Submitted with Data:", transformedData);
+    // Process form data as needed, e.g., save it, send it to an API, etc.
+    -
+    axios
+    .post(`${import.meta.env.VITE_BASE_API_URL}/custom-queries`, transformedData)
+    .then((response) => {
+    -
+      console.log('Query customizada inserida no banco com sucesso! ', response.data);
+    -
+      const newQuery = response.data;
+      const customQueryURL = `${import.meta.env.VITE_BASE_API_URL}/custom-queries/${newQuery.id}/results`;
+    -
+      queries.value.unshift({
+        id: newQuery.id,
+        query: transformedData.query,
+        description: transformedData.description,
+        createdAt: newQuery.createdAt,
+      });
+    -
+      expandedRows.value.unshift(false);      
+    -
+      axios.get(customQueryURL)
+      .then((response) => {
+        -
+        console.log('Resultado da query customizada: ', response.data);
+        -
+        const chartData = transformResponseToChartData(response.data);
+        console.log('ChartData array gerado: ', chartData)
+        -
+        // RENDERIZAR RESULTADO EM JSON NA PÁGINA PARA TESTES 
+        // queryResults.value.unshift({
+        //     queryId: newQuery.id,
+        //     data: response.data
+        //   });
+        -
+        customQueryCharts.value.push({
+          chartType: visualizationModel || "pie",
+          chartData: chartData, // Default data
+          chartId: `chart-${customQueryCharts.value.length + 1}`,
+        });
+      })
+      .catch((error) => {
+        console.error('Erro ao executar a custom query: ', error);
+      });
+    -
+    })
+    .catch((error) => {
+      // Handle any errors from the request
+      console.error('Erro ao postar a query customizada: ', error);
+    });
+  }
+        </code>
+    </pre>
+</details>
+
+### :man_student: Aprendizado
+
+<details>
+    <summary>
+        :battery: Hard Skills
+    </summary>
+    <table>
+        <tr>
+            <td>Springboot</td>
+            <td>Continuei os aprendizados com o framework springboot, podendo compreender na totalidade a estruturação de projetos, e as vantagens de utilizá-lo.</td>
+        </tr>
+        <tr>
+            <td>Spark</td>
+            <td>Trabalhei com o spark pela primeira vez durante este projeto, e tive a oportunidade de entender a importância de frameworks e livrarias de manipulação e visualização de dados no back-end, e sua comunicação com os bancos de dados.</td>
+        </tr>
+        <tr>
+            <td>DevOps</td>
+            <td>O grande diferencial deste semestre foi a apresentação do conceito de DevOps, o processo e suas partes. Além de ter um panorâma completo de toda a pipeline de DevOps, tive a oportunidade de aprender e implementar na prática a área de rastreamento de requisitos.</td>
+        </tr>
+    </table>
+</details>
+
+<details>
+    <summary>
+        :speaking_head: Soft Skills
+    </summary>
+    <table>
+        <tr>
+            <td>Trabalho em Equipe</td>
+            <td>O trabalho em equipe é essencial em todos os projetos, mas especificamente nesse, por conta do DevOps. Cada integrante do grupo ficou responsável por uma área, e foi preciso mais comunicação e trabalho em equipe para que todas as partes do DevOps pudessem ser implementadas de maneira integrada.</td>
+        </tr>
+        <tr>
+            <td>Responsabilidade</td>
+            <td>Por ter sido um projeto grande, com várias etapas e várias entregas, tanto dentro da aplicação quanto fora. Precisei ter e aprender um senso de responsabilidade novo, pois muitas vezes a nota não só minha mas também da equipe como um todo dependia das minhas entregas.</td>
         </tr>
     </table>
 </details>
