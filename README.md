@@ -17,7 +17,7 @@
 
 ## Meus Principais Conhecimentos
 
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+Sou um designer digital formado, com experiência em front-end e UX/UI que complementam perfeitamente a formação em Banco de Dados. Estou aperfeiçoando e expandindo meu conhecimento em diversas linguagens e tecnologias back-end como Java, Python, Spring, Flask, Spark e Pandas, com o objetivo de me tornar um desenvolvedor Full-Stack completo.  
 
 ## :card_index_dividers: PORTFOLIO
 
@@ -1105,7 +1105,9 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     <img src="/assets/api6/fotoapi2.png" alt="Readme"/>
     <br>
     
-    > Ao criar o repositório, o readme, a organização e a página do projeto no Jira, pude compreender a importância de uma boa organização durante a fase de planejamento e estruturação, antes mesmo do início do desenvolvimento.
+    Ao criar o repositório, o readme, a organização e a página do projeto no Jira, 
+    pude compreender a importância de uma boa organização durante a fase de planejamento e estruturação, 
+    antes mesmo do início do desenvolvimento.
 </details>
 
 <details>
@@ -1116,7 +1118,9 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     <img src="/assets/api6/fotoapi1.png" alt="Home"/>
     <br>
     
-    > Tomei a iniciativa de fazer o design inicial da aplicação, optei por uma estética mais moderna, com imagens, e cores um pouco mais quentes para remeter a natureza.
+    Tomei a iniciativa de fazer o design inicial da aplicação, 
+    optei por uma estética mais moderna, com imagens, 
+    e cores um pouco mais quentes para remeter a natureza.
 </details>
 
 <details>
@@ -1130,7 +1134,9 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     </p>
     <br>
     
-    > Consegui trazer os conceitos das aulas sobre Machine Learning, e aplicá-los, para constuir um modelo capaz de classificar áreas geográficas em diferentes estratégias de plantio e manejo, uma das entregas de mais valor para o cliente durante o projeto.
+    Consegui trazer os conceitos das aulas sobre Machine Learning, e aplicá-los,
+    para constuir um modelo capaz de classificar áreas geográficas em diferentes estratégias de plantio e manejo, 
+    uma das entregas de mais valor para o cliente durante o projeto.
 </details>
 
 ### :man_student: Aprendizado
