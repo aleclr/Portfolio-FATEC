@@ -1104,6 +1104,7 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     <br>
     <img src="/assets/api6/fotoapi2.png" alt="Readme"/>
     <br>
+    
     > Ao criar o repositório, o readme, a organização e a página do projeto no Jira, pude compreender a importância de uma boa organização durante a fase de planejamento e estruturação, antes mesmo do início do desenvolvimento.
 </details>
 
@@ -1114,6 +1115,7 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     <br>
     <img src="/assets/api6/fotoapi1.png" alt="Home"/>
     <br>
+    
     > Tomei a iniciativa de fazer o design inicial da aplicação, optei por uma estética mais moderna, com imagens, e cores um pouco mais quentes para remeter a natureza.
 </details>
 
@@ -1124,9 +1126,10 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     <br>
     <p align="center">
         <img src="/assets/api6/fotoapi3.png" alt="ML1" width="45%"/>
-        <img src="/assets/api6/fotoapi3.png" alt="ML2" width="45%"/>
+        <img src="/assets/api6/fotoapi4.png" alt="ML2" width="45%"/>
     </p>
     <br>
+    
     > Consegui trazer os conceitos das aulas sobre Machine Learning, e aplicá-los, para constuir um modelo capaz de classificar áreas geográficas em diferentes estratégias de plantio e manejo, uma das entregas de mais valor para o cliente durante o projeto.
 </details>
 
