@@ -1102,22 +1102,9 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
         Organização de README e Wiki do projeto
     </summary>
     <br>
-    <pre>
-        <code>
-        </code>
-    </pre>
-</details>
-
-<details>
-    <summary>
-        Criação do projeto e quadros do Jira
-    </summary>
+    <img src="/assets/api6/fotoapi2.png" alt="Readme"/>
     <br>
-    <pre>
-        <code>
-        </code>
-    </pre>
-
+    > Ao criar o repositório, o readme, a organização e a página do projeto no Jira, pude compreender a importância de uma boa organização durante a fase de planejamento e estruturação, antes mesmo do início do desenvolvimento.
 </details>
 
 <details>
@@ -1125,10 +1112,9 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
         Criação do Design Front-End do projeto
     </summary>
     <br>
-    <pre>
-        <code>
-        </code>
-    </pre>
+    <img src="/assets/api6/fotoapi1.png" alt="Home"/>
+    <br>
+    > Tomei a iniciativa de fazer o design inicial da aplicação, optei por uma estética mais moderna, com imagens, e cores um pouco mais quentes para remeter a natureza.
 </details>
 
 <details>
@@ -1136,12 +1122,12 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
         Desenvolvimento de um modelo de machine learning
     </summary>
     <br>
-    <img src="/assets/api5/fotoapi2.png" alt="Visualização de Query"/>
+    <p align="center">
+        <img src="/assets/api6/fotoapi3.png" alt="ML1" width="45%"/>
+        <img src="/assets/api6/fotoapi3.png" alt="ML2" width="45%"/>
+    </p>
     <br>
-    <pre>
-        <code>
-        </code>
-    </pre>
+    > Consegui trazer os conceitos das aulas sobre Machine Learning, e aplicá-los, para constuir um modelo capaz de classificar áreas geográficas em diferentes estratégias de plantio e manejo, uma das entregas de mais valor para o cliente durante o projeto.
 </details>
 
 ### :man_student: Aprendizado
