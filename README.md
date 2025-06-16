@@ -1065,3 +1065,119 @@ public class PdfReportLogService {
         </tr>
     </table>
 </details>
+
+---
+
+### 6º SEM - DataForest: Gerenciamento e Predição em Processos de Reflorestamento
+
+[Repositório Github](https://github.com/bytelabss/ByteLabs-API6Sem)
+
+Parceiro acadêmico: [Kersys](https://www.kersys.com.br)
+
+<p align="center">
+  <img src="/assets/api6/fotoapi1.png" alt="Imagem 2" width="100%">
+</p>
+
+> O objetivo deste API foi a utilização de machine learning para ajudar o processo de reflorestamento dos clientes da empresa parceira Kersys. A utilização de tecnologias, com exceção do banco de dados MongoDB, ficou à critério das equipes, caracterizando um projeto liberal e diferente dos demais.
+
+### :computer: Tecnologias Utilizadas
+
+![Tecnologias](/assets/api6/tecnologias.png)
+
+- [Python](https://www.python.org) : Linguagem utilizada para o desenvolvimento das funcionalidades back-end do projeto.
+- [Flask](https://flask.palletsprojects.com/en/stable/) : Framework escolhido para prover estrutura e a conexão do projeto com o banco de dados.
+- [MongoDB](https://www.mongodb.com) : Banco de dados para os dados da aplicação.
+- [PostgreSQL](https://www.postgresql.org) : Banco de dados para os dados ambientais retirados de uma base de dados real.
+- [Pandas](https://pandas.pydata.org) : Utilizado para manipular e analisar dados no python em larga escala.
+- [React](https://react.dev) : Para o front-end do projeto.
+- [Typescript](https://www.typescriptlang.org) : Para combinar com o React e fornecer um Javascript mais organizado e robusto.
+- [Scikit-learn](https://scikit-learn.org/stable/) : Uma das formas mais populares de se criar machine learning no Python.
+
+### Contribuições Pessoais
+
+Este projeto foi minha primeira experiência trabalhando como Scrum Master, completando assim pelo menos um semestre trabalhando em todas as funções da metodologia SCRUM. Pude aprender bastante de como gerenciar um time de desenvolvedores, e como fazer a ponte entre equipe e P.O, além de também trabalhar na parte de machine learning do projeto.
+
+<details>
+    <summary>
+        Organização de README e Wiki do projeto
+    </summary>
+    <br>
+    <pre>
+        <code>
+        </code>
+    </pre>
+</details>
+
+<details>
+    <summary>
+        Criação do projeto e quadros do Jira
+    </summary>
+    <br>
+    <pre>
+        <code>
+        </code>
+    </pre>
+
+</details>
+
+<details>
+    <summary>
+        Criação do Design Front-End do projeto
+    </summary>
+    <br>
+    <pre>
+        <code>
+        </code>
+    </pre>
+</details>
+
+<details>
+    <summary>
+        Desenvolvimento de um modelo de machine learning
+    </summary>
+    <br>
+    <img src="/assets/api5/fotoapi2.png" alt="Visualização de Query"/>
+    <br>
+    <pre>
+        <code>
+        </code>
+    </pre>
+</details>
+
+### :man_student: Aprendizado
+
+<details>
+    <summary>
+        :battery: Hard Skills
+    </summary>
+    <table>
+        <tr>
+            <td>Springboot</td>
+            <td>Continuei os aprendizados com o framework springboot, podendo compreender na totalidade a estruturação de projetos, e as vantagens de utilizá-lo.</td>
+        </tr>
+        <tr>
+            <td>Spark</td>
+            <td>Trabalhei com o spark pela primeira vez durante este projeto, e tive a oportunidade de entender a importância de frameworks e livrarias de manipulação e visualização de dados no back-end, e sua comunicação com os bancos de dados.</td>
+        </tr>
+        <tr>
+            <td>DevOps</td>
+            <td>O grande diferencial deste semestre foi a apresentação do conceito de DevOps, o processo e suas partes. Além de ter um panorâma completo de toda a pipeline de DevOps, tive a oportunidade de aprender e implementar na prática a área de rastreamento de requisitos.</td>
+        </tr>
+    </table>
+</details>
+
+<details>
+    <summary>
+        :speaking_head: Soft Skills
+    </summary>
+    <table>
+        <tr>
+            <td>Trabalho em Equipe</td>
+            <td>O trabalho em equipe é essencial em todos os projetos, mas especificamente nesse, por conta do DevOps. Cada integrante do grupo ficou responsável por uma área, e foi preciso mais comunicação e trabalho em equipe para que todas as partes do DevOps pudessem ser implementadas de maneira integrada.</td>
+        </tr>
+        <tr>
+            <td>Responsabilidade</td>
+            <td>Por ter sido um projeto grande, com várias etapas e várias entregas, tanto dentro da aplicação quanto fora. Precisei ter e aprender um senso de responsabilidade novo, pois muitas vezes a nota não só minha mas também da equipe como um todo dependia das minhas entregas.</td>
+        </tr>
+    </table>
+</details>
