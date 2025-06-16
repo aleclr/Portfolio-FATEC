@@ -1152,16 +1152,16 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     </summary>
     <table>
         <tr>
-            <td>Springboot</td>
-            <td>Continuei os aprendizados com o framework springboot, podendo compreender na totalidade a estruturação de projetos, e as vantagens de utilizá-lo.</td>
+            <td>Python</td>
+            <td>Embora já havia trabalhado com python nos primeiros semestres do curso, os projetos não eram robustos e complexos. Agora, revisitando a linguagem, pude ter uma nova visão, de como os projetos mais parecidos com os do mercado de trabalho são formados.</td>
         </tr>
         <tr>
-            <td>Spark</td>
-            <td>Trabalhei com o spark pela primeira vez durante este projeto, e tive a oportunidade de entender a importância de frameworks e livrarias de manipulação e visualização de dados no back-end, e sua comunicação com os bancos de dados.</td>
+            <td>Flask</td>
+            <td>Muitas familiaridades com outros frameworks estruturais para back-end (exemplo: Spring) fizeram a curva de aprendizado do Flask ser mais amigável, porém também foi necessário aprender rápido.</td>
         </tr>
         <tr>
-            <td>DevOps</td>
-            <td>O grande diferencial deste semestre foi a apresentação do conceito de DevOps, o processo e suas partes. Além de ter um panorâma completo de toda a pipeline de DevOps, tive a oportunidade de aprender e implementar na prática a área de rastreamento de requisitos.</td>
+            <td>Machine Learning</td>
+            <td>Pra mim a parte mais divertida e inovadora deste semestre. Tive a oportunidade de participar do desenvolvimento de um dos modelos de Machine Learning desenvolvidos para o projeto Data Forest, uma experiência desafiadora, porém muito recompensadora.</td>
         </tr>
     </table>
 </details>
@@ -1172,12 +1172,12 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     </summary>
     <table>
         <tr>
-            <td>Trabalho em Equipe</td>
-            <td>O trabalho em equipe é essencial em todos os projetos, mas especificamente nesse, por conta do DevOps. Cada integrante do grupo ficou responsável por uma área, e foi preciso mais comunicação e trabalho em equipe para que todas as partes do DevOps pudessem ser implementadas de maneira integrada.</td>
+            <td>Gerência</td>
+            <td>Precisei aprender como cuidar da gerencia de uma equipe para exercer o papel de Scrum Master, como realizar as reuniões diárias, como manter o controle das tarefas e da produtividade de todos os integrantes, e como facilitar a produção e o desenvolvimento como um todo.</td>
         </tr>
         <tr>
-            <td>Responsabilidade</td>
-            <td>Por ter sido um projeto grande, com várias etapas e várias entregas, tanto dentro da aplicação quanto fora. Precisei ter e aprender um senso de responsabilidade novo, pois muitas vezes a nota não só minha mas também da equipe como um todo dependia das minhas entregas.</td>
+            <td>Trabalho sob pressão</td>
+            <td>Este semestre nosso grupo estava com poucos integrantes, por diversos motivos. Contamos com apenas 3 desenvolvedores, o que deixou a equipe num geral pressionada e estressada. Precisei aprender a lidar com a pressão, ajudar os companheiros, e a realizar múltiplas funções quando necessário.</td>
         </tr>
     </table>
 </details>
