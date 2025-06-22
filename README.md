@@ -342,7 +342,7 @@ Parceiro acadêmico: [2RPnet](https://2rpnet.com.br/)
   <img src="/assets/api3/fotoapi2.png" alt="Imagem 2" width="50%">
 </p>
 
-> A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para geração de insights e o aprimoramento da experiência de seus clientes.
+> A 2RP possui mais de 20 anos de experiência disponibilizando para o mercado soluções para análise de informações em tempo real, e também análise de transações financeiras e de dados, para ação de insights e o aprimoramento da experiência de seus clientes.
 
 > Nosso parceiro buscava uma ferramenta web que fizesse o controle da jornada de trabalho do colaborador, identificasse e classificasse horas extras, controle das horas extras e sobreavisos. Acesso de administrador para o departamento de RH, gestor para aprovação e lançamento das horas e colaborador para apontar horas extras.
 
@@ -752,7 +752,7 @@ Parceiro acadêmico: [Pro4Tech](https://pro4tech.com.br)
   <img src="/assets/api5/fotoapi1.png" alt="Imagem 2" width="100%">
 </p>
 
-> A Pro4Tech nos procurou, buscando uma solução para gerenciamento e análise de dados envolvendo seus processos seletivos e de recrutamento. A solução montada pela nossa equipe foi uma plataforma online, capaz de otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados.
+> A Pro4Tech nos procurou, buscando uma solução para enciamento e análise de dados envolvendo seus processos seletivos e de recrutamento. A solução montada pela nossa equipe foi uma plataforma online, capaz de otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados.
 
 ### :computer: Tecnologias Utilizadas
 
@@ -1095,7 +1095,7 @@ Parceiro acadêmico: [Kersys](https://www.kersys.com.br)
 
 ### Contribuições Pessoais
 
-Este projeto foi minha primeira experiência trabalhando como Scrum Master, completando assim pelo menos um semestre trabalhando em todas as funções da metodologia SCRUM. Pude aprender bastante de como gerenciar um time de desenvolvedores, e como fazer a ponte entre equipe e P.O, além de também trabalhar na parte de machine learning do projeto.
+Este projeto foi minha primeira experiência trabalhando como Scrum Master, completando assim pelo menos um semestre trabalhando em todas as funções da metodologia SCRUM. Pude aprender bastante de como liderar um time de desenvolvedores, e como fazer a ponte entre equipe e P.O, além de também trabalhar na parte de machine learning do projeto.
 
 <details>
     <summary>
@@ -1167,8 +1167,8 @@ Este projeto foi minha primeira experiência trabalhando como Scrum Master, comp
     </summary>
     <table>
         <tr>
-            <td>Gerência</td>
-            <td>Precisei aprender como cuidar da gerencia de uma equipe para exercer o papel de Scrum Master, como realizar as reuniões diárias, como manter o controle das tarefas e da produtividade de todos os integrantes, e como facilitar a produção e o desenvolvimento como um todo.</td>
+            <td>Liderança</td>
+            <td>Precisei aprender a liderar uma equipe para exercer o papel de Scrum Master, como realizar as reuniões diárias, como manter o controle das tarefas e da produtividade de todos os integrantes, e como facilitar a produção e o desenvolvimento como um todo.</td>
         </tr>
         <tr>
             <td>Trabalho sob pressão</td>
